@@ -73,11 +73,11 @@ media="(prefers-color-scheme: dark)"
 
 ### Próprios🏆
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=MiniJogos&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/MiniJogos)
+[![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=Pokedex&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/Pokedex)[![MiniJogos](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=MiniJogos&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/MiniJogos) [![BioBits](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=BioBits&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/BioBits)
 
 ### Copiados😃
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=Manual_Do_Dev&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/Manual_Do_Dev)
+[![Manual do Dev](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=Manual_Do_Dev&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/Manual_Do_Dev)
 
 </details>
 
