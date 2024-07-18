@@ -1,27 +1,95 @@
 # Rafael Santiago🖖
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rafael.santiago.silva.1405@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rafael.santiago.silva.1405@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelsantiagodev/)
 
-## Habilidades
+<details>
+<summary>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Sass](https://img.shields.io/badge/Sass-ffddef?style=for-the-badge&logo=sass)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## Stacks🛠️
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafa1405&theme=dark&layout=compact&locale=pt-BR)](https://github.com/anuraghazra/github-readme-stats)     ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelsantiagosilva&hide=html,css&theme=dark&layout=compact&locale=pt-BR)
+</summary>
 
-Oii! Sou Rafael Santiago, um estudante de programação de Morungaba-SP, Brasil. No momento, estou no segundo ano do ensino médio. Gosto de jogos, RPGs, séries de comédia e de programar!![Codando](./typing.png)
+### Frontend💻
 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-<!--
-**rafaelsantiagosilva/rafaelsantiagosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend⚙️
 
-Here are some ideas to get you started:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Database💾
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+
+### Documentação📃
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### DevOps🐧
+
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Deploy🚀
+
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<!-- ### IA🤖 -->
+
+</details>
+
+## Top langs👾
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelsantiagosilva&hide=html,css&theme=dark&layout=donut&locale=pt-BR)
+
+## Wakatime🕰️
+
+<picture>
+<source 
+srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rafa1405&theme=dark&layout=compact&locale=pt-BR&custom_title=____________________________________________________________" 
+media="(prefers-color-scheme: dark)" 
+/>
+
+<source
+srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rafa1405&theme=transparent&layout=compact&locale=pt-BR&custom_title=____________________________________________________________"
+media="(prefers-color-scheme: dark)"
+/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafa1405&theme=dark&layout=compact&locale=pt-BR&custom_title=____________________________________________________________">
+</picture>
+
+<details>
+<summary>
+
+## Repositórios🏷️
+
+</summary>
+
+### Próprios🏆
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=MiniJogos&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/MiniJogos)
+
+### Copiados😃
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=Manual_Do_Dev&theme=dark&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+<summary>
+
+## Pra você que chegou até aqui...🚀
+
+</summary>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23151516&textColor=%23fff&borderColor=%23fff&qColor=%23fff&aColor=%23686868&codeColor=%236DD561)![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&locale=pt-br)
+
+</details>
+
+![Codando](./typing.png)
