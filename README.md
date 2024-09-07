@@ -1,6 +1,16 @@
-# Rafael Santiago🖖
+<center>
+  <h1>Rafael Santiago🖖</h1>
+</center>
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rafael.santiago.silva.1405@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelsantiagodev/)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="mailto:rafael.santiago.silva.1405@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/rafaelsantiagodev/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+</div>
 
 <details>
 <summary>
@@ -73,11 +83,11 @@ media="(prefers-color-scheme: dark)"
 
 ### Próprios🏆
 
-[![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=Pokedex&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/Pokedex)[![MiniJogos](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=MiniJogos&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/MiniJogos) [![BioBits](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=BioBits&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/BioBits)
+[![GiTinder](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=gitinder&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/gitinder)[![Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=snake_game&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/snake_game)[![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=Pokedex&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/Pokedex)[![MiniJogos](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=MiniJogos&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/MiniJogos) [![BioBits](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=BioBits&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/BioBits)
 
 ### Copiados😃
 
-[![Manual do Dev](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=Manual_Do_Dev&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/Manual_Do_Dev)
+[![plann.er](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=plann.er&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/plann.er)[![Manual do Dev](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsantiagosilva&repo=Manual_Do_Dev&theme=dark&description_lines_count=2)](https://github.com/rafaelsantiagosilva/Manual_Do_Dev)
 
 </details>
 
