@@ -2,15 +2,7 @@
   <h1>Rafael Santiago🖖</h1>
 </center>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="mailto:rafael.santiago.silva.1405@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
-  </a>
-
-  <a href="https://www.linkedin.com/in/rafaelsantiagodev/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-  </a>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rafael.santiago.silva.1405@gmail.com)[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelsantiagodev/)
 
 <details>
 <summary>
