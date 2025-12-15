@@ -48,10 +48,6 @@
 
 </details>
 
-## Top langs👾
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelsantiagosilva&hide=html,css&theme=dark&layout=donut&locale=pt-BR)
-
 ## Wakatime🕰️
 
 <picture>
